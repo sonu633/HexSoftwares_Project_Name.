@@ -54,6 +54,17 @@ Attrition by Job Role
 Salary Distribution
 Job Satisfaction Analysis
 
+# 4.Interactive Features
+Department Slicer
+
+Gender Slicer
+
+Age Group Filter
+
+Job Role Filter
+
+Attrition Status Filter
+
 # PROJECT - 03
 Student Performance Analysis
 # Click Link -> view raw -> Download in File
