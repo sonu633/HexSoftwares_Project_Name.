@@ -11,6 +11,8 @@ https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/Sales_Dashboard_
 
 # PROJECT - 02
 HR Analytics Dashboard – Employee Attrition Analysis using Power BI
+# Click Link -> view raw -> Download in File
+https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/hr_attrition_data.csv
 # PROJECT - 03
 
 Student Performance Analysis
