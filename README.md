@@ -21,7 +21,14 @@ Attrition by Gender
 Attrition by Age Group
 Attrition by Job Role
 Salary Distribution
-Job Satisfaction Analysis
+
+# 4.Job Satisfaction Analysis
+Interactive Features
+Department Slicer
+Gender Slicer
+Age Group Filter
+Job Role Filter
+Attrition Status Filter
 
 
 
