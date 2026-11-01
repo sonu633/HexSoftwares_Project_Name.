@@ -31,7 +31,7 @@ Job Role Filter
 Attrition Status Filter
 
 # PROJECT 02 – HR Analytics Dashboard
-
+![Sales Dashboard](hr analytics photo.pdf)
 
 # HexSoftwares_Project_Name.
 This the most important project
