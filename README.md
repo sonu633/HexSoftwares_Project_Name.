@@ -1,5 +1,4 @@
 # HexSoftwares_Project_Name.
-This the most important project
 # PROJECT 01 – Sales Dashboard Analysis
 Sales Dashboard Analysis in Excel / Power BI
 # Click Link -> view raw -> Download in File 
