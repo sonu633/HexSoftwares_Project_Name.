@@ -15,7 +15,13 @@ Total Customers
 Total Quantity Sold
 Profit Margin (%)
 
-
+# 3.Dashboard Charts
+Attrition by Department
+Attrition by Gender
+Attrition by Age Group
+Attrition by Job Role
+Salary Distribution
+Job Satisfaction Analysis
 
 
 
