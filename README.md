@@ -1,7 +1,5 @@
 # PROJECT 01 – Sales Dashboard Analysis
-
-
-
+Screenshot_2026-11-01-18-07-53-20_96b26121e545231a3c569311a54cda96.jpg
 
 
 
