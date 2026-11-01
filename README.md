@@ -36,16 +36,6 @@ https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/hr_attrition_dat
 https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/HR_Attrition_Dashboard.xlsx
 ![Sales Dashboard](Screenshot_2026-11-01-23-30-31-87_96b26121e545231a3c569311a54cda96.jpg)
 
-# HexSoftwares_Project_Name.
-This the most important project
-
-# Data Analytics
-Project List
-
-
-
-
-
 # PROJECT - 03
 Student Performance Analysis
 # Click Link -> view raw -> Download in File
