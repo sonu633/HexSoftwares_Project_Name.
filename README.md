@@ -1,5 +1,9 @@
+# HexSoftwares_Project_Name.
+This the most important project
 # PROJECT 01 – Sales Dashboard Analysis
-
+Sales Dashboard Analysis in Excel / Power BI
+# Click Link -> view raw -> Download in File 
+https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/Sales_Dashboard_Analysis.xlsx
 ![Sales Dashboard](Screenshot_2026-11-01-18-07-53-20_96b26121e545231a3c569311a54cda96.jpg)
 # 1. Project Objective
 Analyze sales data to understand revenue, profit, customer behavior, product performance, and regional sales trends.
@@ -15,10 +19,7 @@ This the most important project
 # Data Analytics
 Project List
 
-# PROJECT - 01
-Sales Dashboard Analysis in Excel / Power BI
-# Click Link -> view raw -> Download in File 
-https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/Sales_Dashboard_Analysis.xlsx
+
 
 # PROJECT - 02
 HR Analytics Dashboard – Employee Attrition Analysis using Power BI
