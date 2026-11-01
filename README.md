@@ -108,3 +108,25 @@ Pass Percentage
 Highest Marks
 
 Failed Students
+# 3.Dashboard Charts
+Subject-wise Performance
+
+Gender-wise Performance
+
+Attendance vs Marks
+
+Grade Distribution
+
+Top 10 Students
+
+Class-wise Performance
+# 4. Interactive Features
+Subject Slicer
+
+Gender Filter
+
+Class Filter
+
+Grade Filter
+
+Student Selection
