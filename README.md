@@ -38,6 +38,22 @@ https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/HR_Attrition_Das
 1. Project Objective
 Analyze employee attrition and identify factors affecting employee turnover to support HR decision-making.
 
+# KPI Cards
+Total Employees
+Attrition Count
+Attrition Rate (%)
+Average Salary
+Average Age
+Active Employees
+
+# 3.Dashboard Charts
+Attrition by Department
+Attrition by Gender
+Attrition by Age Group
+Attrition by Job Role
+Salary Distribution
+Job Satisfaction Analysis
+
 # PROJECT - 03
 Student Performance Analysis
 # Click Link -> view raw -> Download in File
