@@ -1,6 +1,9 @@
 # PROJECT 01 – Sales Dashboard Analysis
 
 ![Sales Dashboard](Screenshot_2026-11-01-18-07-53-20_96b26121e545231a3c569311a54cda96.jpg)
+# 1. Project Objective
+Analyze sales data to understand revenue, profit, customer behavior, product performance, and regional sales trends.
+
 
 
 
