@@ -89,7 +89,6 @@ Job Role Filter
 
 Attrition Status Filter
 
-# PROJECT - 03
-Student Performance Analysis
+# PROJECT 03 – Student Performance Analysis
 # Click Link -> view raw -> Download in File
 https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/Student_Performance_Analysis.xlsx
