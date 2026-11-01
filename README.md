@@ -6,6 +6,7 @@ https://github.com/sonu633/HexSoftwares_Project_Name./blob/main/Sales_Dashboard_
 ![Sales Dashboard](Screenshot_2026-11-01-18-07-53-20_96b26121e545231a3c569311a54cda96.jpg)
 # 1. Project Objective
 Analyze sales data to understand revenue, profit, customer behavior, product performance, and regional sales trends.
+# 2. Dataset Structure
 
 
 
